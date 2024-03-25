@@ -7,7 +7,7 @@
 <h2>👨‍💻 You can check my projects here:</h2>
 
 <h2>🎮 Country geek: https://github.com/PoK3MOoN/country-geek</h2>
-
+<h2>🎮 E-Notes: https://github.com/PoK3MOoN/eNotesFull</h2>
 
 
 
