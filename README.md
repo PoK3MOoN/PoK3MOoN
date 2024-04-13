@@ -1,6 +1,6 @@
 <h1>Hi, console.log(Petar === here) // true README.md:1</h1>
 <h3>📺 Frontend: 🕸 React + 🏄‍♀️ Tailwind </h3>
-<h3>💾 Backend: 🏃‍♂️ Express.js + 🍃 MongoDB</h3>
+<h3>💾 Backend: 🏃‍♂️ Express.js + 🍃 MongoDB / 🐬 MYSQL</h3>
 
 
 <h3>🌱 I’m currently on software developer faculty 👨‍💻, but if you ask for me about web dev I'm currently learing 🐬 MYSQL database to fullfill my backend knowledge along with ➡ NEXT.JS on the frontend</h2>
